@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Reading urlfrom properties file]]>
+    </line>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+    <line>
+      <![CDATA[clicking on gender]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button of health plan page]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[clicking on NextButton of MemberDetailsPage]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[Entering pincode]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Continue Button]]>
+    </line>
+    <line>
+      <![CDATA[getting plan number from text]]>
+    </line>
+    <line>
+      <![CDATA[getting plan number from plan cards]]>
+    </line>
+    <line>
+      <![CDATA[Plan number are matching TC is passed]]>
+    </line>
+    <line>
+      <![CDATA[TestvalidateCoverFoxPlansis success]]>
+    </line>
+    <line>
+      <![CDATA[closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-04-22T23:23:29 IST" name="Suite" finished-at="2025-04-22T23:23:49 IST" duration-ms="19769">
+    <groups>
+    </groups>
+    <test started-at="2025-04-22T23:23:29 IST" name="Test" finished-at="2025-04-22T23:23:49 IST" duration-ms="19769">
+      <class name="com.coverFox_test.CoverFoxUsingTestNG">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.coverFox_test.CoverFoxUsingTestNG@5fe94a96]" started-at="2025-04-22T23:23:29 IST" name="launchBrowser" finished-at="2025-04-22T23:23:37 IST" duration-ms="8600" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading urlfrom properties file]]>
+            </line>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="coverFoxPreconditions()[pri:0, instance:com.coverFox_test.CoverFoxUsingTestNG@5fe94a96]" started-at="2025-04-22T23:23:37 IST" name="coverFoxPreconditions" finished-at="2025-04-22T23:23:48 IST" duration-ms="10428" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on gender]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button of health plan page]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[clicking on NextButton of MemberDetailsPage]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[Entering pincode]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Continue Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- coverFoxPreconditions -->
+        <test-method signature="validateCoverFoxPlans()[pri:0, instance:com.coverFox_test.CoverFoxUsingTestNG@5fe94a96]" started-at="2025-04-22T23:23:48 IST" name="validateCoverFoxPlans" finished-at="2025-04-22T23:23:48 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting plan number from text]]>
+            </line>
+            <line>
+              <![CDATA[getting plan number from plan cards]]>
+            </line>
+            <line>
+              <![CDATA[Plan number are matching TC is passed]]>
+            </line>
+            <line>
+              <![CDATA[TestvalidateCoverFoxPlansis success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateCoverFoxPlans -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFox_test.CoverFoxUsingTestNG@5fe94a96]" started-at="2025-04-22T23:23:48 IST" name="closeBrowser" finished-at="2025-04-22T23:23:49 IST" duration-ms="522" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.coverFox_test.CoverFoxUsingTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
