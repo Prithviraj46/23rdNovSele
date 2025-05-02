@@ -84,6 +84,9 @@ public class CoverFoxUsingTestNG extends Base {
         logger.info("validating CoverFoxPlans");
 		Assert.assertEquals(planNumberFromText, planNumberFromCards, "Test case failed, number are not matching");
 		Reporter.log("Plan number are matching TC is passed", true);
+		Reporter.log("My First change", true);
+		Reporter.log("My Second change", true);
+		Reporter.log("My Third change", true);
 		//Utility.takeScreenshot(driver, "validateCoverFoxPlans");
 
 	}

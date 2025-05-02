@@ -21,3 +21,14 @@
 2025-04-22 23:23:44,405 - 23rdNov24_CoverFox -INFO - clickOnContinueButton
 2025-04-22 23:23:48,507 - 23rdNov24_CoverFox -INFO - validating CoverFoxPlans
 2025-04-22 23:23:48,523 - 23rdNov24_CoverFox -INFO - closing browser
+2025-05-02 23:32:39,641 - 23rdNov24_CoverFox -INFO - Welcome to CoverFox Testing
+2025-05-02 23:32:50,070 - 23rdNov24_CoverFox -WARN - Launching browser
+2025-05-02 23:32:50,762 - 23rdNov24_CoverFox -INFO - Clicking on gender
+2025-05-02 23:32:51,386 - 23rdNov24_CoverFox -INFO - clickOnNextButtonHealthPlanPage
+2025-05-02 23:32:53,278 - 23rdNov24_CoverFox -INFO - handleAgeDropDown
+2025-05-02 23:32:53,528 - 23rdNov24_CoverFox -INFO - clickOnNextButtonOfMemberDetails
+2025-05-02 23:32:53,940 - 23rdNov24_CoverFox -INFO - enterPinCode
+2025-05-02 23:32:54,130 - 23rdNov24_CoverFox -INFO - enterMobileNumber
+2025-05-02 23:32:54,294 - 23rdNov24_CoverFox -INFO - clickOnContinueButton
+2025-05-02 23:32:58,390 - 23rdNov24_CoverFox -INFO - validating CoverFoxPlans
+2025-05-02 23:32:58,401 - 23rdNov24_CoverFox -INFO - closing browser
